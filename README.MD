@@ -104,16 +104,15 @@ The dataset comes from a single hospital and may not generalize to other populat
 
 ## How to Run
 
-Install dependencies:
+## Install Dependencies
 
+```bash
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost openpyxl
+```
 
-Then run:
+## Run the Project
 
+```bash
 python main.py
+```
 
-## Author
-
-Lalitha Srihitha Prayaga  
-M.S. Health Informatics  
-Indiana University Indianapolis
